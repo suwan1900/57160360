@@ -137,7 +137,7 @@ void click(int button, int state, int x, int y) {
 		x -= 100;
 		y /= 3;
 		y = 200 - y;
-		y -= 100;
+		y -= 200;
 		printf("%d,%d\n", x, y);
 
 	}
